@@ -1,4 +1,4 @@
 import streamlit as st
-st.header('puppy')
-st.write('puppy')
-st.image('https://i.pining.com/564x/36/b4/ef/36b4ef433ac9c2cf9d34e54aa3a38340.jpg',caption='puppy')
+st.header('windows')
+st.write('windows')
+st.image('https://w0.peakpx.com/wallpaper/469/795/HD-wallpaper-windows-10-logo-blue-glow.jpg',caption='puppy')
